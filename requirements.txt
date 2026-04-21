@@ -1,0 +1,8 @@
+fastai
+ucimlrepo
+pandas
+numpy
+scikit-learn
+matplotlib
+jupyter
+ipykernel

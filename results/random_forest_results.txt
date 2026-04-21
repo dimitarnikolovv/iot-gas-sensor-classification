@@ -1,0 +1,14 @@
+Random Forest Accuracy: 0.9942
+
+              precision    recall  f1-score   support
+
+Acetaldehyde       0.99      0.99      0.99       387
+     Acetone       0.99      1.00      0.99       602
+     Ammonia       1.00      0.98      0.99       328
+     Ethanol       1.00      1.00      1.00       513
+    Ethylene       1.00      0.99      1.00       585
+     Toluene       0.99      1.00      0.99       367
+
+    accuracy                           0.99      2782
+   macro avg       0.99      0.99      0.99      2782
+weighted avg       0.99      0.99      0.99      2782
